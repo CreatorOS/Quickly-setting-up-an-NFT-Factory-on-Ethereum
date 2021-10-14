@@ -11,7 +11,7 @@ So first up, let’s clone the github repository.
 
 ```
 
-git clone [https://github.com/austintgriffith/scaffold-eth.git](https://github.com/austintgriffith/scaffold-eth.git)
+git clone https://github.com/austintgriffith/scaffold-eth.git
 
 cd scaffold-eth
 
